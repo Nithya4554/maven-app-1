@@ -22,7 +22,7 @@
   </dependencies>
   
   <build>
-    <finalName>Kastro-app</finalName>
+    <finalName>Tomcat-app</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
